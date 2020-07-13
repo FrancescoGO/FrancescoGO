@@ -1,8 +1,6 @@
 ![](https://res.cloudinary.com/francescogo/image/upload/v1594674652/Readme%20Perfil/Images/logofgo_fccwaj.svg)
 
-### Hola! 👋
-
-## Soy Francesco Gomez ![](https://res.cloudinary.com/francescogo/image/upload/v1594674910/Readme%20Perfil/Images/imgfrancescogo_svacem.png)
+## Francesco Gomez ![](https://res.cloudinary.com/francescogo/image/upload/v1594674910/Readme%20Perfil/Images/imgfrancescogo_svacem.png)
 
 [![Linkedin Badge](https://res.cloudinary.com/francescogo/image/upload/v1594667769/CV/linkedin-logo_cxihyz.png)](https://www.linkedin.com/in/francescogo/)
 [![Portfolio Badge](https://res.cloudinary.com/francescogo/image/upload/v1594667603/CV/portfolio-logo_idgwhz.png)](https://francescogo.github.io/portafolio-1v/)
