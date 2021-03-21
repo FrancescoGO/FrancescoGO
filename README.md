@@ -5,7 +5,7 @@
 [![Portfolio Badge](https://res.cloudinary.com/francescogo/image/upload/v1594667603/CV/portfolio-logo_idgwhz.png)](https://francescogo.github.io/portafolio-1v/)
 
 (Desarrollador Web y Escritorio)
-- [ ] **Buscando Trabajo**
+- [X] **Buscando Trabajo**
 
 
 Tengo conocimiento en las siguientes tecnologías y herramientas:
