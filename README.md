@@ -17,6 +17,7 @@ Tengo conocimiento en las siguientes tecnologías y herramientas:
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594675024/Readme%20Perfil/Images/logoJs_gyezt0.svg) Javascript
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594675086/Readme%20Perfil/Images/logoTypescript_b3ewxq.svg) Typescript
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594675171/Readme%20Perfil/Images/logoAngular_ctyzq2.svg) Angular
+  * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677558/Readme%20Perfil/Images/logoReact_bgsweo.svg) React
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594675274/Readme%20Perfil/Images/logoGit_f4von6.svg) Git
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594675275/Readme%20Perfil/Images/logoGithub_uzgiyp.svg) Github
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594675375/Readme%20Perfil/Images/logoFirebase_ydtjqr.svg) Firebase
@@ -29,7 +30,6 @@ Tengo conocimiento en las siguientes tecnologías y herramientas:
 ## Aprendiendo
 
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677487/Readme%20Perfil/Images/logoNodeJs_qrvb5i.png) Node.js&reg;
-  * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677558/Readme%20Perfil/Images/logoReact_bgsweo.svg) React
 
 ### Tecnologías y/o Herramientas por aprender después de Node.js&reg; & React
   
