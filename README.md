@@ -31,7 +31,7 @@ Tengo conocimiento en las siguientes tecnologías y herramientas:
 
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677487/Readme%20Perfil/Images/logoNodeJs_qrvb5i.png) Node.js&reg;
 
-### Tecnologías y/o Herramientas por aprender después de Node.js&reg; & React
+### Tecnologías y/o Herramientas por aprender después de Node.js&reg;
   
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677835/Readme%20Perfil/Images/logoPWA_fs8xo3.svg) PWA
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677927/Readme%20Perfil/Images/logoSpring_f2d7sb.svg) Spring
