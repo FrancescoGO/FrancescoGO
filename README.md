@@ -26,18 +26,6 @@ Tengo conocimiento en las siguientes tecnologías y herramientas:
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677123/Readme%20Perfil/Images/logoVisualStudio2008_j25dwa.png) Visual Studio 2008
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594676701/Readme%20Perfil/Images/logoVisualstudio_l8dens.svg) VS.NET 2013
   * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677168/Readme%20Perfil/Images/logoSQLServer_pcpsw7.svg) Microsoft SQL Server 2016
-  
-## Aprendiendo
-
-  * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677487/Readme%20Perfil/Images/logoNodeJs_qrvb5i.png) Node.js&reg;
-
-### Tecnologías y/o Herramientas por aprender después de Node.js&reg;
-  
-  * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677835/Readme%20Perfil/Images/logoPWA_fs8xo3.svg) PWA
-  * ![](https://res.cloudinary.com/francescogo/image/upload/v1594677927/Readme%20Perfil/Images/logoSpring_f2d7sb.svg) Spring
-  * ![](https://res.cloudinary.com/francescogo/image/upload/v1594678559/Readme%20Perfil/Images/logoIonic_mro7j1.svg) Ionic
-  * ![](https://res.cloudinary.com/francescogo/image/upload/v1594678631/Readme%20Perfil/Images/logoFlutter_b6q7mj.svg) Flutter
-  * ![](https://res.cloudinary.com/francescogo/image/upload/v1594678711/Readme%20Perfil/Images/logoPHP_tztiqe.svg) PHP
 
 <!--
 **FrancescoGO/FrancescoGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
